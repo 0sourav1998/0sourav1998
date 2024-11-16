@@ -27,5 +27,10 @@ Fun fact **Bats are the only flying mammals**
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🐍 GitHub Snake Game:
-![GitHub Snake Game](https://github.com/0sourav1998/0sourav1998/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Game] <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/snk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/snk/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/snk/output/github-snake.svg" />
+</picture>
+
 
